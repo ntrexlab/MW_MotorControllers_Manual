@@ -1,5 +1,3 @@
-# MW_MotorControllers_Manual
-
 # MW_MotorControllers_Maunal
 MotorControllers_Pi -> [ntrexlab/MotorControllers_Pi](https://github.com/ntrexlab/AHRS_Text)</br>
 MotorControllers_Arduino -> [ntrexlab/MotorControllers_Arduino](https://github.com/ntrexlab/AHRS_Binary)</br>
