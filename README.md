@@ -1,5 +1,5 @@
 # MW_MotorControllers_Maunal
-Mobile_Ui -> [다운로드 경로](https://github.com/ntrexlab/MW_MotorControllers_Manual/blob/main/Mobile_UI.exe)</
+Mobile_Ui -> [다운로드 경로](https://github.com/ntrexlab/MW_MotorControllers_Manual/blob/main/Mobile_UI.exe)</br>
 
 MotorControllers_Pi -> [ntrexlab/MotorControllers_Pi](https://github.com/ntrexlab/AHRS_Text)</br>
 MotorControllers_Arduino -> [ntrexlab/MotorControllers_Arduino](https://github.com/ntrexlab/AHRS_Binary)</br>
